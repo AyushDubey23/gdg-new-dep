@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GDG MMMUT</string>
+    <string name="home">Home</string>
+    <string name="events">Events</string>
+    <string name="team">Team</string>
+    <string name="resources">Resources</string>
+    <string name="quizzes">Quizzes</string>
+    <string name="about">About</string>
+    
+    <!-- Home Screen -->
+    <string name="welcome_message">Hello, Developer! 👋</string>
+    <string name="welcome_subtitle">Welcome to GDG MMMUT</string>
+    <string name="search_placeholder">Search events, resources...</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="view_all">View All</string>
+    <string name="register">Register</string>
+    <string name="announcements">📢 Announcements</string>
+    
+    <!-- Events -->
+    <string name="event_details">Event Details</string>
+    <string name="event_location">Location</string>
+    <string name="event_time">Time</string>
+    <string name="event_date">Date</string>
+    
+    <!-- Team -->
+    <string name="team_member">Team Member</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="github">GitHub</string>
+    <string name="email">Email</string>
+    
+    <!-- Resources -->
+    <string name="video">Video</string>
+    <string name="article">Article</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="documentation">Documentation</string>
+    <string name="pdf">PDF</string>
+    
+    <!-- Quiz -->
+    <string name="start_quiz">Start Quiz</string>
+    <string name="quiz_completed">Quiz Completed</string>
+    <string name="your_score">Your Score</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect!</string>
+    
+    <!-- About -->
+    <string name="mission">Mission</string>
+    <string name="vision">Vision</string>
+    <string name="contact_info">Contact Information</string>
+    <string name="social_links">Social Links</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>

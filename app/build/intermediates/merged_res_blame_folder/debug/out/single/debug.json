@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\ayush\\GDG_MMMUT_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_resources.xml.flat",
+        "source": "C:\\Users\\ayush\\GDG_MMMUT_App\\app\\src\\main\\res\\drawable\\ic_resources.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\GDG_MMMUT_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_quiz.xml.flat",
+        "source": "C:\\Users\\ayush\\GDG_MMMUT_App\\app\\src\\main\\res\\drawable\\ic_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\GDG_MMMUT_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_events.xml.flat",
+        "source": "C:\\Users\\ayush\\GDG_MMMUT_App\\app\\src\\main\\res\\drawable\\ic_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\GDG_MMMUT_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_background.xml.flat",
+        "source": "C:\\Users\\ayush\\GDG_MMMUT_App\\app\\src\\main\\res\\drawable\\splash_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\GDG_MMMUT_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_team.xml.flat",
+        "source": "C:\\Users\\ayush\\GDG_MMMUT_App\\app\\src\\main\\res\\drawable\\ic_team.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\GDG_MMMUT_App\\app\\build\\intermediates\\res\\merged\\debug\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ayush\\GDG_MMMUT_App\\app\\src\\main\\res\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\GDG_MMMUT_App\\app\\build\\intermediates\\res\\merged\\debug\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ayush\\GDG_MMMUT_App\\app\\src\\main\\res\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\GDG_MMMUT_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gdg_logo.xml.flat",
+        "source": "C:\\Users\\ayush\\GDG_MMMUT_App\\app\\src\\main\\res\\drawable\\gdg_logo.xml"
+    }
+]

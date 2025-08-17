@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude all shared preferences -->
+    <exclude domain="sharedpref" path="." />
+    
+    <!-- Exclude all databases -->
+    <exclude domain="database" path="." />
+    
+    <!-- Include only specific app data -->
+    <include domain="file" path="." />
+</full-backup-content>

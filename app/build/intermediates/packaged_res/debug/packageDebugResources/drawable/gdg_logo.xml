@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Google G -->
+    <path
+        android:fillColor="@color/google_blue"
+        android:pathData="M60,25C39.58,25 23,41.58 23,62s16.58,37 37,37c11.54,0 21.82,-5.26 28.65,-13.5H75.5V75H85V50H60v10h15c0,8.28 -6.72,15 -15,15c-8.28,0 -15,-6.72 -15,-15s6.72,-15 15,-15c3.31,0 6.38,1.07 8.86,2.89L80,45.86C74.34,41.34 67.5,39 60,39c-12.7,0 -23,10.3 -23,23s10.3,23 23,23 23,-10.3 23,-23V50H60V25z"/>
+    
+    <!-- D -->
+    <path
+        android:fillColor="@color/google_red"
+        android:pathData="M20,30h15c8.28,0 15,6.72 15,15v30c0,8.28 -6.72,15 -15,15H20V30zM30,40v40h5c2.76,0 5,-2.24 5,-5V45c0,-2.76 -2.24,-5 -5,-5H30z"/>
+    
+    <!-- G (second) -->
+    <path
+        android:fillColor="@color/google_yellow"
+        android:pathData="M100,25C79.58,25 63,41.58 63,62s16.58,37 37,37c11.54,0 21.82,-5.26 28.65,-13.5H115.5V75H125V50H100v10h15c0,8.28 -6.72,15 -15,15c-8.28,0 -15,-6.72 -15,-15s6.72,-15 15,-15c3.31,0 6.38,1.07 8.86,2.89L120,45.86C114.34,41.34 107.5,39 100,39c-12.7,0 -23,10.3 -23,23s10.3,23 23,23 23,-10.3 23,-23V50H100V25z"/>
+    
+    <!-- Center circle as path -->
+    <path
+        android:fillColor="@color/google_green"
+        android:pathData="M60,52 C64.42,52 68,55.58 68,60 C68,64.42 64.42,68 60,68 C55.58,68 52,64.42 52,60 C52,55.58 55.58,52 60,52 Z"/>
+</vector>

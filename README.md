@@ -36,7 +36,6 @@ I developed this project completely on my own while learning **Jetpack Compose**
 <img width="305" height="683" alt="image" src="https://github.com/user-attachments/assets/781d5ca3-4e37-4025-bdeb-f4e64d1efcaa" />
 <img width="305" height="676" alt="image" src="https://github.com/user-attachments/assets/ef0748fc-8108-4bfb-8521-622c543777a3" />
 <img width="302" height="687" alt="image" src="https://github.com/user-attachments/assets/4a22f23d-3553-4c0d-989e-8bfba6045d3c" />
-<img width="303" height="692" alt="image" src="https://github.com/user-attachments/assets/fefcd48d-bad8-426e-a091-b206b9bb5782" />
 
 ---
 
@@ -61,3 +60,4 @@ I developed this project completely on my own while learning **Jetpack Compose**
 - 📧 [ayushdubey3740@gmail.com](mailto:ayushdubey3740@gmail.com)  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ayushdubey23/)  
 - 💻 [GitHub](https://github.com/AyushDubey23)  
+
